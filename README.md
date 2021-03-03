@@ -28,7 +28,7 @@ Implemented functions.
 + Execute the following command in the SDK root directory to start compilation.
 
   ```bash
-  sh build_app.sh . /apps/bk7231s_flame_demo/ bk7231s_flame_demo 1.0.0 
+  sh build_app.sh apps/tuya-iotos-embeded-demo-wifi-ble-flame-sensor tuya-iotos-embeded-demo-wifi-ble-flame-sensor 1.0.0 
   ```
 
 + Firmware burning license information please refer to: [Wi-Fi + BLE series module burning license](https://developer.tuya.com/cn/docs/iot/device-development/burn-and-authorization/burn-and-authorize-wifi-ble-modules/burn-and-authorize-wb-series-modules?id=Ka78f4pttsytd) 
