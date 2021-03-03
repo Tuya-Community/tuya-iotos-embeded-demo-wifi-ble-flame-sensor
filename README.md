@@ -31,7 +31,7 @@ Implemented functions.
   sh build_app.sh . /apps/bk7231s_flame_demo/ bk7231s_flame_demo 1.0.0 
   ```
 
-+ Firmware burning license information please refer to: [Wi-Fi + BLE series module burning license](https://developer.tuya.com/cn/docs/iot/device-development/burn-and-authorization/burn-and- authorize-wifi-ble-modules/burn-and-authorize-wb-series-modules?id=Ka78f4pttsytd) 
++ Firmware burning license information please refer to: [Wi-Fi + BLE series module burning license](https://developer.tuya.com/cn/docs/iot/device-development/burn-and-authorization/burn-and-authorize-wifi-ble-modules/burn-and-authorize-wb-series-modules?id=Ka78f4pttsytd) 
 
  
 
